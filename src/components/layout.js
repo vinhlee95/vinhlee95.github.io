@@ -1,9 +1,23 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import { rhythm, scale } from '../utils/typography'
+import styled from 'styled-components'
 
 // assets
 import BackIcon from '../icons/ui-arrow-back.svg'
+
+// general layout
+const GeneralLayout = styled.div`
+	padding: 0 5%;
+
+	@media (min-width: 768px) {
+		padding: 0 20%;
+	}
+
+	@media (min-width: 1024px) {
+		padding: 0 25%;
+	}
+`
 
 class Layout extends React.Component {
   render() {
@@ -50,14 +64,10 @@ class Layout extends React.Component {
       )
     }
     return (
-      <div
-        style={{
-          padding: '0 25%',
-        }}
-      >
+      <GeneralLayout>
         {header}
         {children}
-      </div>
+      </GeneralLayout>
     )
   }
 }
