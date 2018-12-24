@@ -1,7 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
-
 import { rhythm, scale } from '../utils/typography'
+
+// assets
+import BackIcon from '../icons/ui-arrow-back.svg'
 
 class Layout extends React.Component {
   render() {
@@ -37,11 +39,14 @@ class Layout extends React.Component {
             style={{
               boxShadow: 'none',
               textDecoration: 'none',
-              color: 'inherit',
+							color: 'inherit',
+							display: 'flex',
+							alignItems: 'center',
             }}
             to={'/'}
           >
-            Back To Home
+						<img src={BackIcon} alt='back-home' style={{marginBottom: 0}} />
+            All blogs
           </Link>
         </span>
       )
