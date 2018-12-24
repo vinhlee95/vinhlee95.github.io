@@ -3,7 +3,7 @@ module.exports = {
     title: 'BLOGS',
     author: 'Vinh Le',
     description: 'Writing about tech and related stuffs',
-    siteUrl: 'http://username.github.io',
+    siteUrl: 'http://vinhlee95.github.io',
     social: {
 			twitter: 'vinhle95',
 			medium: '@vinhle95',
