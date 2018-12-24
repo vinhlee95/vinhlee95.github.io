@@ -44,7 +44,7 @@ function Bio() {
 								margin: 0,
 							}}
 						>
-              Written by <strong>{author}</strong>. Currently working as a software developer in Helsinki area, Finland.{' '}.
+              Written by <strong>{author}</strong>. Currently working as a software developer in Helsinki area, Finland.
 							<br/>
 							Learn more in my <Link href={siteUrl} target='_blank'><strong>personal site</strong></Link>.
 							<br />
