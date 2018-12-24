@@ -40,7 +40,7 @@
     "eslint-plugin-react": "^7.11.1",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+	"homepage": "http://username.github.io/blogs",
   "keywords": [
     "gatsby"
   ],
