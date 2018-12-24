@@ -34,21 +34,19 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <span>
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-							color: 'inherit',
-							display: 'flex',
-							alignItems: 'center',
-            }}
-            to={'/'}
-          >
-						<img src={BackIcon} alt='back-home' style={{marginBottom: 0}} />
-            All blogs
-          </Link>
-        </span>
+				<Link
+					style={{
+						boxShadow: 'none',
+						textDecoration: 'none',
+						color: 'inherit',
+						display: 'flex',
+						alignItems: 'center',
+					}}
+					to={'/'}
+				>
+					<img src={BackIcon} alt='back-home' style={{marginBottom: 0}} />
+					All blogs
+				</Link>
       )
     }
     return (
