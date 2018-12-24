@@ -11,7 +11,6 @@ module.exports = {
 			github: 'vinhlee95',
     }
 	},
-	pathPrefix: "/blogs",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
