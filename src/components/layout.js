@@ -32,13 +32,7 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <h3
-          style={{
-            fontFamily: 'Montserrat, sans-serif',
-            marginTop: 0,
-            marginBottom: rhythm(-1),
-          }}
-        >
+        <span>
           <Link
             style={{
               boxShadow: 'none',
@@ -47,18 +41,15 @@ class Layout extends React.Component {
             }}
             to={'/'}
           >
-            {title}
+            Back To Home
           </Link>
-        </h3>
+        </span>
       )
     }
     return (
       <div
         style={{
-          marginLeft: 'auto',
-          marginRight: 'auto',
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+          padding: '0 25%',
         }}
       >
         {header}

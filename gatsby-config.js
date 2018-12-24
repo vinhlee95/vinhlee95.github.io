@@ -1,11 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: 'My Blogs',
+    title: 'BLOGS',
     author: 'Vinh Le',
     description: 'Writing about tech and related stuffs',
-    siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
+    siteUrl: 'https://vinhlee.com/',
     social: {
-      twitter: 'vinhlee95'
+			twitter: 'vinhle95',
+			medium: '@vinhle95',
+			linkedIn: 'vinhlee95',
+			github: 'vinhlee95',
     }
   },
   plugins: [
