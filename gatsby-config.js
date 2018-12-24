@@ -3,14 +3,15 @@ module.exports = {
     title: 'BLOGS',
     author: 'Vinh Le',
     description: 'Writing about tech and related stuffs',
-    siteUrl: 'https://vinhlee.com/',
+    siteUrl: 'http://username.github.io',
     social: {
 			twitter: 'vinhle95',
 			medium: '@vinhle95',
 			linkedIn: 'vinhlee95',
 			github: 'vinhlee95',
     }
-  },
+	},
+	pathPrefix: "/blogs",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
