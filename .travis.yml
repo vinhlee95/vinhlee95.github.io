@@ -1,15 +1,24 @@
 language: node_js
-
-os:
-  - linux
-  - osx
-
+cache:
+  directories:
+    - ~/.npm
+notifications:
+  email:
+    recipients:
+      - lethanhvinh95@gmail.com
+    on_failure: always
 node_js:
-  - "node"
-  - "lts/*"
-  - "7"
-  - "8"
-
+  - '9'
+git:
+  depth: 3
 script:
-  - npm install
-  - npm run lint
+  - yarn build
+deploy:
+  provider: pages
+  skip-cleanup: true
+  keep-history: true
+  github-token: 5f3515720f71d76f69908a645303a4580e3ab3db
+  local-dir: public
+  target-branch: master
+  on:
+    branch: develop
