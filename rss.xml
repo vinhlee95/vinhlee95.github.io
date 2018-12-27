@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[BLOGS]]></title><description><![CDATA[Writing about tech and related stuffs]]></description><link>http://vinhlee95.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 27 Dec 2018 21:23:51 GMT</lastBuildDate><item><title><![CDATA[So you’ve signed up for another online course — how do you make the most of it?]]></title><description><![CDATA[Last year, I fortunately got the chance to read a special report in the Economist that discussed how important life-long learning is in the…]]></description><link>http://vinhlee95.github.io/mooc/</link><guid isPermaLink="false">http://vinhlee95.github.io/mooc/</guid><pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2beb558979a88e278b75b4c3e34b3833/30631/headline.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIFAQT/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQT/2gAMAwEAAhADEAAAAXzjV5aBNIv/xAAZEAEAAgMAAAAAAAAAAAAAAAABADEREjL/2gAIAQEAAQUCzNgRjy21/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAIAQMBAT8BCBv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAACAQUAAAAAAAAAAAAAAAAAAXECAxAxkf/aAAgBAQAGPwLG1wuSMpg//8QAHBABAAICAwEAAAAAAAAAAAAAAQAhETFBcYGh/9oACAEBAAE/IcApviOQNQA1dw/Ck+cjg//aAAwDAQACAAMAAAAQgC//xAAaEQACAgMAAAAAAAAAAAAAAAAAEQEhcdHw/9oACAEDAQE/EGdjYhUn/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQIBAT8QR//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESFRMZFxgaH/2gAIAQEAAT8QtrhpFmEthGnv3AZacoKnZGHFELa8Rqa4KzXERS20r9n/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;learning&quot;
+        title=&quot;&quot;
+        src=&quot;/static/2beb558979a88e278b75b4c3e34b3833/f8fb9/headline.jpeg&quot;
+        srcset=&quot;/static/2beb558979a88e278b75b4c3e34b3833/e8976/headline.jpeg 148w,
+/static/2beb558979a88e278b75b4c3e34b3833/63df2/headline.jpeg 295w,
+/static/2beb558979a88e278b75b4c3e34b3833/f8fb9/headline.jpeg 590w,
+/static/2beb558979a88e278b75b4c3e34b3833/85e3d/headline.jpeg 885w,
+/static/2beb558979a88e278b75b4c3e34b3833/d1924/headline.jpeg 1180w,
+/static/2beb558979a88e278b75b4c3e34b3833/30631/headline.jpeg 1600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Last year, I fortunately got the chance to read a special report in the Economist that discussed how important life-long learning is in the age of automation. At this point in time, everyone seems to be afraid of the notion that AI and machines might ultimately replace their jobs. But the Economist argues for the significance of self-learning and self-development in general.&lt;/p&gt;
+&lt;p&gt;One valuable source for self-learning is MOOCs (Massive Online Learning Courses), which are gaining incredibly widespread awareness. Thanks to their flexibility, availability, and increasingly affordable pricing, many people have found MOOCs to be an important tool to either refresh their skillset or pursue a career move.&lt;/p&gt;
+&lt;h3&gt;How about the developers out there?&lt;/h3&gt;
+&lt;p&gt;No matter whether you’re a newbie or a seasoned developer, you probably have gone through several online tutorials. In this article, I will not discuss the importance of MOOCs, as this has been covered widely. Rather, I’ll share my personal experience as a self-taught developer who has attended a few MOOCs and show you how to get the most out of them.&lt;/p&gt;
+&lt;h2&gt;How to get the most out of a MOOC&lt;/h2&gt;
+&lt;h3&gt;Please, don’t memorize those code blocks&lt;/h3&gt;
+&lt;p&gt;There’s a very common mistake that you may have heard of a million times, and that I saw myself making when I first started diving into tutorials: I thought I could somehow memorize the lines of code I was working with.&lt;/p&gt;
+&lt;p&gt;Soon, I realized that this not only take tons of time but also overwhelms and prevents you from moving forward. Let me show you why.&lt;/p&gt;
+&lt;p&gt;Almost everything you see instructors doing on the screen will move in to your short-term memory. No matter how thoroughly you grasp the concept at the time, if you do not practice it frequently, it’s never going to sink in deeply inside your memory.&lt;/p&gt;
+&lt;p&gt;It’s just how the human mind works. In order to quickly pick up something to use instantly when needed, we need to practice it frequently ourselves, and not just watch somebody doing it.&lt;/p&gt;
+&lt;p&gt;Not being able to memorize code snippets you see might negatively affect your self-esteem at first. However, if you look at the bigger picture and analyze how much you’ll need to learn, you’ll realize that it’s not necessary to try to remember every bit of syntax or snippet.&lt;/p&gt;
+&lt;p&gt;Don’t get me wrong. There are things that you absolutely have to remember. You’ll be heavily using them, and it will save you time later on. However, the point is, almost everything is searchable. You could quickly find those code blocks later on, so all you need to remember is what it is used for so that you know what to search for.&lt;/p&gt;
+&lt;p&gt;Hence, deciding what you need to remember is pretty imporatnt, but it’s easier said than done. Remember, your time and mental capacity is limited. Save your brain cells for more important things.&lt;/p&gt;
+&lt;p&gt;But what are those &lt;strong&gt;important&lt;/strong&gt; things? Let’s move on.&lt;/p&gt;
+&lt;h3&gt;Do try to grasp the concepts&lt;/h3&gt;
+&lt;p&gt;Yep, concepts are important. But, again, which concepts?&lt;/p&gt;
+&lt;p&gt;If you consider the functionality of a code block, it basically tells you how to solve a given problem. However, understanding why it does that is far more critical. In other words, taking into account what’s happening behind the scenes, and figuring out how the concepts connect the dots together to solve an issue.&lt;/p&gt;
+&lt;p&gt;The further you go into your coding journey, the more you’d realize that the lines of code you write are just a way to solve the problem. And as we develop, the way to solve the problem is updated frequently and improved upon, but the concepts hardly change.&lt;/p&gt;
+&lt;p&gt;Imagine that you want to use a certain library. You go to its documentation or scroll down to the usage part of its Github repo, grab that block of code, and paste it into your project. One month later, the syntax changes and red lines scrawl across your terminal. What are you going to do?&lt;/p&gt;
+&lt;p&gt;Fortunately, it’s not that big a deal if you already understood the code snippet when you first used it. You’d know what the library was used for and what its dependencies were for it to work properly. As a result, the problem can quickly be solved right after a few searches.&lt;/p&gt;
+&lt;h3&gt;Hey, but how is all this related to tutorials?&lt;/h3&gt;
+&lt;p&gt;You probably know that not every instructor tries to carefully and thoroughly explain &lt;strong&gt;why&lt;/strong&gt; they choose a particular technology or &lt;strong&gt;why&lt;/strong&gt; their code just works, elegantly and somehow magically.&lt;/p&gt;
+&lt;p&gt;The reason is, it really takes time and effort to painstakingly communicate all of this info over the course of a tutorial. Concerning how much time a course normally takes, and how much stuff they need to cover, sometimes instructors just can’t cover everything.&lt;/p&gt;
+&lt;h3&gt;How can you sort this out?&lt;/h3&gt;
+&lt;p&gt;One way is to &lt;strong&gt;pick a proper course.&lt;/strong&gt; In one of my blogs, I discuss how filtering through learning resources is actually quite challenging. And that’s not because the sources are very limited — rather, there are tons of them and that may overwhelm you at first. So how do you choose the right resource?&lt;/p&gt;
+&lt;p&gt;Luckily, almost all of the MOOC providers that I know offer a trial period in which you can preview a number of lectures within a course. The trial period may vary across providers. However, it is normally long enough for you to at least get a taste of the contents as well as the teaching methods of the instructor.&lt;/p&gt;
+&lt;p&gt;Personally, after I sign up for a trial, I do not hurry up and dive straight into the course. Instead, I try to observe the way the instructor explains and clarifies concepts. The purpose of this is to make sure that after dedicating my time and money to a course, I will learn how to think and solve problems in my projects outside of the extent the tutorial covers.&lt;/p&gt;
+&lt;h3&gt;Rating does matter, but not that much&lt;/h3&gt;
+&lt;p&gt;One of the mistakes that I made at the beginning when selecting a course was relying heavily on the course rating, reviews, and the number of students enrolled.&lt;/p&gt;
+&lt;p&gt;However, the fact is that not all instructors have a flair for explaining concepts, regardless of how brilliant they are. Teaching skills are not directly proportional to a person’s experience or skill level.&lt;/p&gt;
+&lt;p&gt;Additionally, each learner’s sense of understanding and experience level is also different. Some people may find that an instructor explains concepts really well, but that may not be the case with you.&lt;/p&gt;
+&lt;p&gt;Remember that you will follow the course you pick over a decent amount of time. Many of us might spend time after our day jobs studying, which is why this time is very valuable.&lt;/p&gt;
+&lt;p&gt;You could be spending the time with your family or on your social life. However, you’re dedicating that time to developing yourself instead. As a result, a proper course not only needs to give you a better understanding and broaden your knowledge, but must also provide a sense of excitement. This will motivate you and keep you hungry to learn more, thereby keeping up your momentum.&lt;/p&gt;
+&lt;p&gt;And, once you have the desire to learn, learning changes from being a responsibility (something that needs to be done) to a joy (something that you want to do). Does that sound better?&lt;/p&gt;
+&lt;h3&gt;Look for other solutions&lt;/h3&gt;
+&lt;p&gt;There’s a famous quote,&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A smooth sea never make the best sailor.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Does this make sense?&lt;/p&gt;
+&lt;p&gt;Not too obvious, is it? Let me tell you why.&lt;/p&gt;
+&lt;p&gt;Have you ever thought that while you’re in the middle of a tutorial, everything works just flawlessly like it’s magic?&lt;/p&gt;
+&lt;p&gt;In my opinion, the reason is that, in a project that an instructor chooses to teach you, they’ve already picked a technology that they know about best, and they’ve also rehearsed it and tried it out in practice many times.&lt;/p&gt;
+&lt;p&gt;However, there is never a single way to solve a problem. Alternatives always exist, especially in the tech world. Therefore, whenever possible, try to investigate other ways to solve a particular problem. This might sound time-consuming and vague at first. But, later on when you work on your personal project, and you’re all on your own, you’ll realize the benefit of this habit. Trust me, it’ll really help you in the long run.&lt;/p&gt;
+&lt;p&gt;You must not only look into altervatives to solve a problem, but also come across the solution itself by asking questions such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why is this technology is the best way to solve that particular issue?&lt;/li&gt;
+&lt;li&gt;What makes it superior to others in that context?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Every time the instructor suggests a solution, you are aware of why it solves the problem, and don’t just understand it for the sake of it. The distance between getting to know something and truly grasping it is far more than just listening to the explanation.&lt;/p&gt;
+&lt;h3&gt;How? Read about it!&lt;/h3&gt;
+&lt;p&gt;So how do you find out a solution to a concept that is brand new to you? Spending time on different mediums is a great way to help. Video is useful to follow along and get a sense of of the breadth of a concept. But I’ve found that articles and blogs are also imperative to understanding a concept in depth.&lt;/p&gt;
+&lt;p&gt;One more thing: never discount the official documentation, my friends. It is the one of the most important resources for understanding a concept and the one that you will most likely come back to later on.&lt;/p&gt;
+&lt;p&gt;But, reading documentation can be sort of overwhelming, especially for code newbies.&lt;/p&gt;
+&lt;p&gt;Nonetheless, the point is you do not need to read the whole thing. Rather, try to just view the part where it solves the problem that you are facing right now. Read through it, compare it with how your instructor presented it, and google how other users implement it. Trust me, you will get much deeper into a library, technology, or concept.&lt;/p&gt;
+&lt;h3&gt;Documenting instead of copying&lt;/h3&gt;
+&lt;p&gt;What if I told you that you will forget a majority of what you have just learned in the next couple of weeks or months?&lt;/p&gt;
+&lt;p&gt;I am hardly able to fully recall a thing I worked on and understood fully just a few weeks ago.&lt;/p&gt;
+&lt;p&gt;As mentioned above, the truth is painful my friends. Our brain and memory capability is limited. You’ll not recall something soon after you learn it, unless you practice it frequently. Compounded by the vast amount of knowledge you need to learn and understand, it is pretty normal if one day when you’re working on your own project and face a problem and tell yourself:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I definitely have seen it, listened to it, thought that I understood how to solve it, but why the heck can’t I recall it right now?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If it is a concept, or a library, then you can quickly solve this by researching or looking at the documentation. However, this problem gets worse if it is a particular issue that the documentation does &lt;strong&gt;not&lt;/strong&gt; cover.&lt;/p&gt;
+&lt;p&gt;Of course, you could then continue to search and hope that other folks already went through these problems and sought solutions online as well. But let’s admit that this is not really efficient and time-saving, right?&lt;/p&gt;
+&lt;p&gt;That’s how the &lt;strong&gt;other&lt;/strong&gt; documentation comes into place. I’m not talking of the official documentation, but &lt;strong&gt;your&lt;/strong&gt; documentation.&lt;/p&gt;
+&lt;p&gt;What? Yes, you’ve got to maintain your own documentation, too.&lt;/p&gt;
+&lt;p&gt;How? By practicing the habit of writing down what you have learned and saving it somewhere so that you can quickly refer to it when needed.&lt;/p&gt;
+&lt;p&gt;More importantly, please do not treat it only as your dictionary of syntax and snippets! Fill it up with problem analysis, thoughts, in-depth clarification, references from different sources. Make it yours so that you know how to access the information quickly.&lt;/p&gt;
+&lt;h3&gt;Don’t forget the forums and discussion boards&lt;/h3&gt;
+&lt;p&gt;What do you usually do when you run into bugs or problems during a tutorial?&lt;/p&gt;
+&lt;p&gt;Do you Google/ StackOverFlow on your first attempt?&lt;/p&gt;
+&lt;p&gt;What if I told you that you’ve already got a mini version of StackOverFlow right inside your tutorial?&lt;/p&gt;
+&lt;p&gt;Yep. That’s how forum and discussion panels are designed within courses. And most online courses offer a place for students to discuss their problems with the instructor or their peers.&lt;/p&gt;
+&lt;p&gt;The course forums and discussion boards are usually the first place that I go when I run into bugs — even before I begin Googling them. That’s because many students doing the course have already come across the same bug. Therefore, you might find answers right in the Q&amp;#x26;A section without leaving the class.&lt;/p&gt;
+&lt;p&gt;Another way you can use the forum is to share your solutions with others. It could be an elegant piece of code that no one has shared, or even some parts of the solution given by the lecturer that you found vague. Either way, sharing your solutions helps you reinforce your concepts and improve your knowledge. It also provides you with an opportunity to learn not only from your instructor, but also from your peers.&lt;/p&gt;
+&lt;h3&gt;Beware - Don’t let these courses fool you!&lt;/h3&gt;
+&lt;p&gt;What do you usually do when you run into bugs or problems during a tutorial?&lt;/p&gt;
+&lt;p&gt;Do you Google/ StackOverFlow on your first attempt?&lt;/p&gt;
+&lt;p&gt;What if I told you that you’ve already got a mini version of StackOverFlow right inside your tutorial?&lt;/p&gt;
+&lt;p&gt;Yep. That’s how forum and discussion panels are designed within courses. And most online courses offer a place for students to discuss their problems with the instructor or their peers.&lt;/p&gt;
+&lt;p&gt;The course forums and discussion boards are usually the first place that I go when I run into bugs — even before I begin Googling them. That’s because many students doing the course have already come across the same bug. Therefore, you might find answers right in the Q&amp;#x26;A section without leaving the class.&lt;/p&gt;
+&lt;p&gt;Another way you can use the forum is to share your solutions with others. It could be an elegant piece of code that no one has shared, or even some parts of the solution given by the lecturer that you found vague. Either way, sharing your solutions helps you reinforce your concepts and improve your knowledge. It also provides you with an opportunity to learn not only from your instructor, but also from your peers.&lt;/p&gt;
+&lt;p&gt;Beware - Don’t let these courses fool you!
+There is one issue with online courses that I found myself running into many times. To be frank, I was under the illusion that I was a great problem solver based on the progress I achieved throughout a course.&lt;/p&gt;
+&lt;p&gt;But, then I realized that the answers I thought I had learned were not actually my solutions! They belonged to the instructor and were right inside the course.&lt;/p&gt;
+&lt;p&gt;That’s because every time a real life problem needs to be solved, no one except you must go to find the answer. There are no suggestions from the instructor, no recommendations or hints from your fellow learners. Only you and the knowledge that you have obtained. That is the moment when you truly recognize what knowledge you have and what you don’t!&lt;/p&gt;
+&lt;p&gt;But once again, you absolutely should not blame yourself for this. The first step is just accepting the truth, and then figuring out how to sort it out.&lt;/p&gt;
+&lt;p&gt;When you’re not actively (and independently) solving a problem and get used to waiting for other’s suggestions, your critical thinking skills will gradually weaken. As a result, when you’re following along with a tutorial and face a problem, why don’t you pause the video and give yourself some time to try out various solutions?&lt;/p&gt;
+&lt;p&gt;The idea is not only to ultimately look for the answer, but also to develop a critical mindset. Once you find the answer yourself without the help of others, regardless of whether your solution is perfect or your method is elegant, you’ve already gained something for yourself. And that mindset will become your habit and help you solve bigger problems later on.&lt;/p&gt;
+&lt;p&gt;You might say, what if it is a technology, library, or framework that I haven’t heard of before? What if there is no way for me to get a sense of using it?&lt;/p&gt;
+&lt;p&gt;No problem, my friends. Just bear in mind that you are going through those tutorials to get to know and learn new things. However, to get the most out of them, and to make them yours afterwards, try not to follow and imitate your instructor step-by-step.&lt;/p&gt;
+&lt;p&gt;If it is a technology that you’re not familiar with, try to have a look at its documentation or at least Google it after being enlightened by the lecturer. After that, give yourself the courage to try to understand it and give it a shot. Even if it might break at the first attempt, you are absolutely fine.&lt;/p&gt;
+&lt;p&gt;Remember, the more struggles and difficulties you face along the way, the more likely you are to remember and make the knowledge yours.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;As newbies, many of us are fearful of making mistakes and getting lost. This really prevents us from getting out of our comfort zones, and we find ourselves trapped and unable to approach a problem.&lt;/p&gt;
+&lt;p&gt;Therefore, let’s take courage my friends! Your code could be ugly or broken at first, but it is still better than copying lines written by others.&lt;/p&gt;
+&lt;p&gt;There is a common cycle, &lt;strong&gt;Try, Test, Learn, and Improve,&lt;/strong&gt; that many use when approaching a new concept. And as you saw, learning and improving are just the two later parts. They are the steps to polish your knowledge. They are important.&lt;/p&gt;
+&lt;p&gt;But it is even more essential to get a taste of that new thing on your own, and try it out to see how it is right, or wrong. Then continue to figure out the problems along the way until it somehow works. The more independent you are in your learning, the more happy and excited you might feel when the problem is solved!&lt;/p&gt;
+&lt;p&gt;Nonetheless, this is a process that every one of us must go through. And life is so boring without any changes or development, isn’t it? So, how do you make the most of your learning path? Disrupt your conventional ways of approaching problems, prioritize broad concepts over actual syntax, document your journey, and leverage resources provided by courses. You will absolutely be on the right track!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Wanna be a developer? Here is what you need to take into account.]]></title><description><![CDATA[A common myth about software developers is that they’re boring and dry geeks, who were math geniuses at school, that spend hours in front of…]]></description><link>http://vinhlee95.github.io/developer/</link><guid isPermaLink="false">http://vinhlee95.github.io/developer/</guid><pubDate>Mon, 18 Jun 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8c4ede2ff745a05a3f77f88282c81505/73f66/coding.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 41.988950276243095%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIE/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgH/2gAMAwEAAhADEAAAAc8FAIf/xAAYEAACAwAAAAAAAAAAAAAAAAABIQACMf/aAAgBAQABBQIFV1z/xAAWEQEBAQAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8BDJ//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwFn/8QAGhAAAQUBAAAAAAAAAAAAAAAAEQABECExYf/aAAgBAQAGPwJzvYor/8QAGxABAAICAwAAAAAAAAAAAAAAAQAhETFBUWH/2gAIAQEAAT8hA3n0gyKHyUUozxP/2gAMAwEAAgADAAAAEAwP/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAIAQMBAT8QJjf/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxBIz//EABsQAAIDAAMAAAAAAAAAAAAAAAERACExQVGR/9oACAEBAAE/EFcaVBA7vQZgimSJL8l4ILkp/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;coding&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8c4ede2ff745a05a3f77f88282c81505/f8fb9/coding.jpg&quot;
+        srcset=&quot;/static/8c4ede2ff745a05a3f77f88282c81505/e8976/coding.jpg 148w,
+/static/8c4ede2ff745a05a3f77f88282c81505/63df2/coding.jpg 295w,
+/static/8c4ede2ff745a05a3f77f88282c81505/f8fb9/coding.jpg 590w,
+/static/8c4ede2ff745a05a3f77f88282c81505/73f66/coding.jpg 724w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;A common myth about software developers is that they’re boring and dry geeks, who were math geniuses at school, that spend hours in front of computer screens writing code.&lt;/p&gt;
+&lt;p&gt;Yes, developers may spend their life in front of computer screens writing code. However, there is much more to it than just coding like a machine the whole day. For me personally, being a developer means you have the chance to build cool stuff by yourself.&lt;/p&gt;
+&lt;p&gt;I started self-learning front-end development my sophomore year. My journey has been filled with self-doubt and hurdles, along with joy and extreme excitement. I never imagined I could experience all that while learning something.&lt;/p&gt;
+&lt;p&gt;Sometimes, even now, I still wonder whether I am following the right path. However, by telling myself that there is nothing more pleasurable than being able to do what I love, I keep putting my head down and I continue working.&lt;/p&gt;
+&lt;p&gt;It has been around two years since I started writing my first lines of code. After many hours of practicing, with sometimes feeling like giving up followed by temporary discontinuity, I would like to share with you a few things that I wish I knew from the beginning.&lt;/p&gt;
+&lt;h2&gt;Don’t treat coding as a leisure interest&lt;/h2&gt;
+&lt;p&gt;First and foremost, if you think that you need to be serious while coding, you’re 100 percent right. It is definitely true that you will probably not spend time doing something you don’t like.&lt;/p&gt;
+&lt;p&gt;However, doing it just on a hobby basis — that is, you only code when you feel like doing it without any specific commitment or schedule — will probably not lead you to the career that you have always wanted.&lt;/p&gt;
+&lt;p&gt;In addition, when you encounter obstacles and difficulties, are you sure that you will have enough patience to keep your little interest alive? Rather, you might end up giving up or potentially going through a long stagnation in the middle.&lt;/p&gt;
+&lt;p&gt;Therefore, you should be incredibly dedicated to your passion, my friends. Yes, I am sure that all of us developers have a great interest in coding and technology in general.&lt;/p&gt;
+&lt;p&gt;However, passion is nothing without the right execution. By committing to a specific goal along with an appropriate schedule, you are building milestones along your journey. Put in a huge commitment to your given timeframe. Specify which skills and technologies you want to learn over a certain period of time. Then you’ll be closer than ever to making learning how to code an imperative part of your life.&lt;/p&gt;
+&lt;h2&gt;Figure out which technologies you need to focus on&lt;/h2&gt;
+&lt;p&gt;Once you’ve started taking coding seriously, the next step is to be honest with yourself. What kind of developer do you want to be?&lt;/p&gt;
+&lt;p&gt;Start by asking yourself what interests you the most. Are you passionate about building user interfaces which control the way users interact with your product? If yes, then front-end technologies should be your main focus. Or maybe designing is not in your DNA and you’re interested in how the server side works — then back-end stuff should be your focus.&lt;/p&gt;
+&lt;p&gt;Giving yourself a clear idea of what you need to learn, based on your interests, is a key element. If you’re still not sure which side is for you, Google them to figure it out or try out a bit of each. Each of us have our own preferences and skills — the things we do best. So answering this question might be simpler than you’ve thought.&lt;/p&gt;
+&lt;h2&gt;Start with the easy things&lt;/h2&gt;
+&lt;p&gt;In the beginning, you might be confused by almost every single task, regardless of difficulty level. From choosing a proper text editor to setting up an environment for a project, it will surely cause you more troubles than you ever expected.&lt;/p&gt;
+&lt;p&gt;Therefore, if you are a complete beginner who is trying out their first language, I highly recommend starting with the easy things. Focus on platforms that provide interactive coding playgrounds, such as Codecademy.&lt;/p&gt;
+&lt;p&gt;That’s where I began, too. These platforms help you focus solely on being familiar with the programming languages without worrying about initialization. You will need to learn these things later on, of course. However, I believe that beginning with writing code will not only excite you, but also help you avoid being overwhelmed.&lt;/p&gt;
+&lt;h2&gt;What learning resources are out there?&lt;/h2&gt;
+&lt;p&gt;There are different paths that you can choose in order to be a software developer. You could either enroll for a computer science degree, participate in coding bootcamps, or even teach yourself. Either way, you’ll always need to constantly update your learning materials. As I belong to the last category, I would like to share how I filter out my learning resources.&lt;/p&gt;
+&lt;h3&gt;Begin with coding playgrounds&lt;/h3&gt;
+&lt;p&gt;At the very first step, starting with easy-to-understand-and-learn platforms such as Codecademy. It offers a place where you are able to read the instructions, and then practice the knowledge right away thanks to the built-in web-based text editor. The result is shown on the screen as well. Just sign in for free, pick up what technologies you are interested in, enter the designated learning track, then you’re good to go.&lt;/p&gt;
+&lt;p&gt;Another very useful resources especially for newbies is freeCodeCamp. Unlike Codecademy where you have to pay for more premium courses (which are, however, very useful), freeCodeCamp offers totally FREE courses and learning tracks. They even give you certificates when you complete each major section.&lt;/p&gt;
+&lt;p&gt;Their tutorials also include detailed instructions, a built-in text editor, and clear explanations too. Additionally, there are projects available where you can use the skills you’ve learned to solve various problems.&lt;/p&gt;
+&lt;h3&gt;Choosing the right learning resources&lt;/h3&gt;
+&lt;p&gt;This process is actually quite challenging. It’s not because there are too few reliable and well-documented sources. There are actually too many tutorials, which potentially overwhelm you at first. Deciding on which way to go can be tough, as you will probably spend a certain period of time following along each path you try. Therefore, a bad tutorial might not only cost you time but also demotivate you from moving forward.&lt;/p&gt;
+&lt;p&gt;Before asking anyone else or Googling where should you learn, please do me a favor, my friends: ask yourself first! Why? Because there are various types of tutorials out there — videos, e-books, textbooks, and online or in-person bootcamps. Only you’ll be able to tell what type of resources you can effectively learn the most from.&lt;/p&gt;
+&lt;p&gt;For me personally, I enjoy watching video tutorials and coding along while watching them. That’s why I treat it as my primary learning method. But you might like reading instead so you can entirely control the pace of learning. In that case, you’d be better off going go for well-known books.&lt;/p&gt;
+&lt;p&gt;Ultimately, you may realize that it is necessary to combine different learning methods. However, in each case you’ll perhaps spend a lot of your time on Medium, where you’ll find many useful resources that you’re most comfortable with.&lt;/p&gt;
+&lt;p&gt;And so, just like the way you’ll figure out what technologies you decide to learn, take a step back, give your mind some space, and determine what type of learning resources you’d like to consume. When you’ve found something that it is right for you, then go for it!&lt;/p&gt;
+&lt;h3&gt;Here are a few great categorized tutorials that I found super useful:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Video tutorials&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/learncodeacademy/&quot;&gt;LearnCode.academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA&quot;&gt;Traversy Media&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w&quot;&gt;Academind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw&quot;&gt;The New Boston&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ&quot;&gt;LearnWebCode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg&quot;&gt;Rally Coding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg&quot;&gt;LevelUpTuts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ&quot;&gt;freeCodeCamp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;MOOCs (Paid online courses)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.udemy.com/&quot;&gt;Udemy&lt;/a&gt; per-course subscription&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://teamtreehouse.com/&quot;&gt;TreeHouse&lt;/a&gt; monthly subscription&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Surround yourself with tech&lt;/h3&gt;
+&lt;p&gt;As mention above, whatever resource you chose to start with, you’ll probably need to rely on different mediums. And &lt;strong&gt;that’s the interesting part of being a developer.&lt;/strong&gt; By surrounding yourself with tech stuff, you will be “learning while relaxing”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Imagining that…&lt;/strong&gt;
+&lt;br&gt;
+You wake up early and start the day by continuing your online tutorial. After almost an hour or so concentrating, you decide to take a break. A Netflix episode? No. You realize that there’s no way you would spend an hour watching TV, and instead open YouTube. You decide to spend time on a 30 minute talk on Coding Tech.&lt;/p&gt;
+&lt;p&gt;The video you viewed received over a hundred thousand views. The guy was talking about the future of CSS thanks to Grid. Interesting! “The time for remembering or checking documentation for Bootstrap grid classes is over”, you murmur. Let’s see how it works!&lt;/p&gt;
+&lt;p&gt;You Google CSS Grid, then go for a blog post published in the freeCodeCamp Medium publication. Thanks to this blog, you grasp some key points and can’t wait to open VSCode to try it out. It is amazing! Oops, something goes wrong. You probably go through a few more questions by folks in StackOverFlow or some more tutorials on CSSTricks. You go around and then finally get it to work.&lt;/p&gt;
+&lt;p&gt;During lunch, you open a podcast and listen to the latest freeCodeCamp episode, which is about how a self-taught developer landed his first tech job. After lunch, you decide to continue with the React tutorial on Udemy. You suddenly find a problem that you’re not clear about, and the Q&amp;#x26;A section doesn’t help.&lt;/p&gt;
+&lt;p&gt;Tired of being stuck for half an hour, you decide to temporarily give up and hope to resolve it later. Then you go to surf through the Dev community on Codeburst to see tips and trends from fellow tech enthusiasts. This is truly a place where people join to share their knowledge and discuss with others.&lt;/p&gt;
+&lt;p&gt;You then think: “May be I should start writing something, whatever it is that I have observed and learned throughout my journey…then I can share it with everyone”. Opening a Google doc page, you excitedly type: “Do you want to be a developer….”?&lt;/p&gt;
+&lt;strong&gt;
+Does this story somehow motivate you? If yes then what are you waiting for? Let’s jump into the world where all of us are developing applications to make the world a better place.
+&lt;/strong&gt;
+&lt;h3&gt;Practice, practice and practice&lt;/h3&gt;
+&lt;p&gt;Okay so now that you have some idea of where to start, it is probably a good idea to start right now. However, being good at something really requires time. To be great, you need to put in tons of work. It is impossible to fill the gap between being a developer that is just starting out and being an experienced developer without sweat and tears.&lt;/p&gt;
+&lt;p&gt;In other words, to be proficient in a programming language, you’d need to put in hours — years — of practice. How, you ask?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow along with tutorials and actively Google or StackOverFlow bugs that you might meet along the way.&lt;/li&gt;
+&lt;li&gt;Dedicate a certain period of time per day only to coding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you’re tired, take a break and go surf around, visit forums and platforms where tech leaders and seasoned developers share what is happening in the tech world. Basically surround yourself by tech stuff.&lt;/p&gt;
+&lt;p&gt;Remember, you’re moving to the next important steps of the success ladder. The more work you put in, the more confident and enthusiastic you’ll probably feel. Just take into account that there is absolutely no shortcut. There is no language or libraries or extension that can help you achieve an overnight success. Keep hustling, learning from failures, being responsible and committed to your schedule and believe in yourself. The day your dream comes true might just be around the corner!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[An overview of Visual Studio Code for front-end developers]]></title><description><![CDATA[No matter whether you are a code newbie or a seasoned developer, code editor is an imperative part of your work. The problem, especially if…]]></description><link>http://vinhlee95.github.io/vscode/</link><guid isPermaLink="false">http://vinhlee95.github.io/vscode/</guid><pubDate>Sat, 05 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/165a184b841b9931def4218771ef7413/0b287/mountain.jpeg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.7%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABvC3NGArF/8QAGhAAAgMBAQAAAAAAAAAAAAAAAAECBBEUIf/aAAgBAQABBQJW5MdhnSxS176f/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABYQAQEBAAAAAAAAAAAAAAAAABABMf/aAAgBAQAGPwLGP//EABkQAQEBAQEBAAAAAAAAAAAAAAERADFRof/aAAgBAQABPyFSTnLAd6nzNVO6iM93/9oADAMBAAIAAwAAABAoD//EABcRAAMBAAAAAAAAAAAAAAAAAAABEUH/2gAIAQMBAT8Qj0h//8QAFhEBAQEAAAAAAAAAAAAAAAAAARBB/9oACAECAQE/EFMj/8QAGxABAQADAAMAAAAAAAAAAAAAAREAITFBUWH/2gAIAQEAAT8QEIrxrmqCKwdYnNL8TiYISScMoBQqa841ar33n//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;mountain&quot;
+        title=&quot;&quot;
+        src=&quot;/static/165a184b841b9931def4218771ef7413/f8fb9/mountain.jpeg&quot;
+        srcset=&quot;/static/165a184b841b9931def4218771ef7413/e8976/mountain.jpeg 148w,
+/static/165a184b841b9931def4218771ef7413/63df2/mountain.jpeg 295w,
+/static/165a184b841b9931def4218771ef7413/f8fb9/mountain.jpeg 590w,
+/static/165a184b841b9931def4218771ef7413/85e3d/mountain.jpeg 885w,
+/static/165a184b841b9931def4218771ef7413/d1924/mountain.jpeg 1180w,
+/static/165a184b841b9931def4218771ef7413/9452e/mountain.jpeg 1770w,
+/static/165a184b841b9931def4218771ef7413/0b287/mountain.jpeg 2000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;No matter whether you are a code newbie or a seasoned developer, code editor is an imperative part of your work. The problem, especially if you are a beginner, is that there are tons of choices for IDEs. And many of them share similar features, functionalities, and even UI. As a result, choosing the right IDE might actually take more time and effort that you thought.&lt;/p&gt;
+&lt;p&gt;If your question right now is: “which code editor should I start with?” then I would reply: “It depends, my friend.” Choosing a particular IDE significantly depends on a few factors: what type of developer you are, what kinds of environments you mostly work with, or whether you have an exclusive built-in feature that you absolutely need to get jobs done.&lt;/p&gt;
+&lt;p&gt;I would say that the way to choose one is to try and explore them all, and then pick what suits you best.&lt;/p&gt;
+&lt;h2&gt;Chosing the right editor for you&lt;/h2&gt;
+&lt;p&gt;As most newbies do, I started with Notepad++ as my first code editor. This is perhaps one of the simplest IDEs that I’ve tried. Later on, as my needs started to require more advanced functionality from the editor, I tried out Brackets, Atom, then Visual Studio Code.&lt;/p&gt;
+&lt;p&gt;After a decent amount of experimenting, VSCode became my favorite. It impressed me with its modern UI, a wide availability of extensions, as well as great features such as built-in Git and terminal.&lt;/p&gt;
+&lt;p&gt;The main purpose of this blog is not to compare different IDEs, but to discuss my experience with VSCode. So in this post, I will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Show a brief introduction to VSCode&lt;/li&gt;
+&lt;li&gt;Introduce the particular theme I’ve installed&lt;/li&gt;
+&lt;li&gt;Discuss helpful extensions I use&lt;/li&gt;
+&lt;li&gt;Show you how I leverage VSCode’s features to enhance my workflow.
+&lt;br&gt;
+Let’s get into it!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;But first, what is VSCode anyway?&lt;/h2&gt;
+&lt;p&gt;Visual Studio Code (VSCode) is a source code editor developed by Microsoft that can be run on Windows, macOS, and Linux. It is free, open-source, and provides support for debugging as well as built-in Git version control, syntax highlights, snippets, and so on. The UI of VSCode is highly customizable, as users can switch to different themes, keyboard shortcuts, and preferences.&lt;/p&gt;
+&lt;p&gt;VSCode was originally announced in 2015 as an open-source project hosted on GitHub before releasing to the web a year later. Since then, Microsoft’s code editor has been gaining popularity among developers.&lt;/p&gt;
+&lt;p&gt;In the Stack Overflow 2018 Developer Survey, VSCode was ranked as the most popular development environment with around 35% out of over 100,000 respondents saying they use it. More stunningly, this figure is around 39% in the web development field.&lt;/p&gt;
+&lt;p&gt;And with monthly updates, users can expect to enjoy an even better experience — bug fixes, stability, and performance boosts are frequently pushed.&lt;/p&gt;
+&lt;h1&gt;Theme: Color and Font&lt;/h1&gt;
+&lt;p&gt;If you’re like me, and you care about theme of your IDE, finding an appropriate font and theme color is very important. I personally prefer a dark theme and hate the default Consolas font of VSCode on Windows.&lt;/p&gt;
+&lt;p&gt;So the Monokai color theme and FiraCode font are my current choices. This combination brings a high contrast which I find very pleasant to work with.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d37b727c17ed5958dc51f81145980d93/417af/theme.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 54.37499999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsSAAALEgHS3X78AAABT0lEQVQoz12Ra3LCMAyEc5BOgfglR5LfOCmB9v63qlIgZZj5fkne1Uoelu/b7We9XFupOeXIjK/kktd1Wb46ByLGHWZKKQ5IFljFLw04Gnt8xU/jhOZ6m3MhbQ5vXQA1xOgBHc3zfOk5o4MRvLrjJ4Vk2jkSw158svkOrUUMtq5cLzyhFvEDJ0FOkmtZahfbTDLNutOdbbLXgxiE4M7ZnyNkdsSW2QlSFC8/mU1ZSFzk5StIbnBeMdtzdnPl3mJtIWUo2RJvKWAyoaSY8E15Z5AFQrCtOSTtt1Fa9vH+EV66MVGIXup75p1NLFfJ2YZg4Kn5x6tUiAO81/8QsZY9YzIWRuPe22JdG89LyQVfi3cek1MypdgYt8zW/QPb2U/MgGiUPmhzHNXhePoQRvU5tOuay9Ta1GfsHVMCDm5HfJ3Xvdc+VySQ4zvQ4iJK+fxf3wlrx2awJaUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;theme&quot;
+        title=&quot;&quot;
+        src=&quot;/static/d37b727c17ed5958dc51f81145980d93/fb8a0/theme.png&quot;
+        srcset=&quot;/static/d37b727c17ed5958dc51f81145980d93/1a291/theme.png 148w,
+/static/d37b727c17ed5958dc51f81145980d93/2bc4a/theme.png 295w,
+/static/d37b727c17ed5958dc51f81145980d93/fb8a0/theme.png 590w,
+/static/d37b727c17ed5958dc51f81145980d93/526de/theme.png 885w,
+/static/d37b727c17ed5958dc51f81145980d93/fa2eb/theme.png 1180w,
+/static/d37b727c17ed5958dc51f81145980d93/417af/theme.png 1600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To install a theme, click Setting icon =&gt; Color Theme =&gt; Choose the theme that you like&lt;/li&gt;
+&lt;li&gt;Find installation guideline of FiraCode here.&lt;/li&gt;
+&lt;li&gt;You can also check out &lt;strong&gt;OneDarkPro&lt;/strong&gt;, another great dark theme: in Extensions (Ctrl + Shift + X on Windows), search for OneDarkPro, click Install, and select it from the Color Theme.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Useful extensions (Extensions =&gt; Search =&gt; Install)&lt;/h2&gt;
+&lt;p&gt;These are some of my favorite extensions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Beautify&lt;/strong&gt;: Beautify code in place and make your code more readable&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bracket Pair Colorizer&lt;/strong&gt;: allows matching brackets to be identified with colours&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;ESLint&lt;/strong&gt;: a must-have extension for React or JavaScript developers in general. ESLint is used to find problems and typos within your code, and allows you to mark that typo. It also suggests solutions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HTML Snippets&lt;/strong&gt;: add rich language support for the HTML Markup such as auto-close tags.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Live Server&lt;/strong&gt;: launch a local server with live reload features for your HTML or PHP site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown Preview Enhanced&lt;/strong&gt;: run live server for your markdown file.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Material Icon Theme&lt;/strong&gt;: provides icons based on Google’s Material Design. To activate, click Setting =&gt; File Icon Theme =&gt; Select Material Icon Theme&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prettier&lt;/strong&gt;: beautifully format your JavaScript/ TypeScript/ CSS code.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Customize your UI&lt;/h2&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/bb16b9d2f9dcd0dec219e2929a6cd897/60b15/vscode-ui.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 82.51582278481013%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAIAAABSJhvpAAAACXBIWXMAAAsSAAALEgHS3X78AAACqklEQVQ4yz1Ty3LcNhDkn1jLJQkCmMH7QS73xV3ZkiyXky/IMYf8VyrJLad8X5qS7KouFguYnpnuGTRPz+dauVRfpzDKruvbfvhAN7T7/mHf736eAFINbKS1GpHN+TLlYmOilAFOhfHNxeAnVzMvoU4uZnoL4JDodpt//eXzeq398NDk7FxgzSNgrGIzGiNHuRdjq/QQAoUafNwyaqetHX2grvskaCSjGpdsKeZS1FPukxNkRk0DyMZK5Or6T5T8YV2O1zlczznHnINSe+U0OWr+/Oev//79+4/ff2O5t1aCqXQH8RAGMuKmdbl9f379er69PoXinZcQSNxL2TbLEi+Xejz4zzNskG/MvRA7ZNnIsg2naXr5sn57Wr48pmXyQdfqyAjoajiyCiYn/TptbcPMdz6RABlZcOvOJ7OuHhVy5JK0284R01AggmGezkVmN0rVb5XlXm9kKcYdBZuu53Q9pfvNn47zMpfiEbORbSAO2gSSnpEIVns7vORdcYKdlvA8eXO/m9vK62oPi/FeSzmMH5WNjtZFWieV4QQpCTNlC81sJVzRJbnHRwvmslBGqNVa/CBHy8na4u8Hus8aOqXuld6ax1erTpXoX75ueH52WKl5ipGGd82w3rrROmnR/Dbb8RS7S4AkbGKHUVEI5nTiw8zLwczV1kr5h2bsAEXHJeKIamTPrFpgEO0WMbYco5kn1OfjAVbbECUJ8XbbsBHGCMWi+N6bfhNMveYBY3wnm2zKeuTgtKPRSAmg649RRaOiNTVMXiq5Q8FBPEASgLal3G+V0XbNG0owNYKCpLhtbHZT5anoHKRximjAnhELPJrNM9UqVpie4FFY0ng2dsTCA9urmk5lOnjMGUysnvUqRO28Ah87CFE4hL0xMX5CxMM0uTi84jr5/wEOxb19sbiGJwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;vscode-ui&quot;
+        title=&quot;&quot;
+        src=&quot;/static/bb16b9d2f9dcd0dec219e2929a6cd897/fb8a0/vscode-ui.png&quot;
+        srcset=&quot;/static/bb16b9d2f9dcd0dec219e2929a6cd897/1a291/vscode-ui.png 148w,
+/static/bb16b9d2f9dcd0dec219e2929a6cd897/2bc4a/vscode-ui.png 295w,
+/static/bb16b9d2f9dcd0dec219e2929a6cd897/fb8a0/vscode-ui.png 590w,
+/static/bb16b9d2f9dcd0dec219e2929a6cd897/526de/vscode-ui.png 885w,
+/static/bb16b9d2f9dcd0dec219e2929a6cd897/fa2eb/vscode-ui.png 1180w,
+/static/bb16b9d2f9dcd0dec219e2929a6cd897/60b15/vscode-ui.png 1264w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+You can customize almost everything, from font-family and font-size of your code to line-height, by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Going to User Settings (Ctrl + ,)&lt;/li&gt;
+&lt;li&gt;Searching for keywords related to your desired customization&lt;/li&gt;
+&lt;li&gt;Clicking the Edit button on the left side of the settings and choosing Replace in Settings&lt;/li&gt;
+&lt;li&gt;Changing the value of the setting that you just chose.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In my current setup, I set the fontSize to 14, lineHeight to 22, and tabSize to 3 for my personal preference (and for good readability).&lt;/p&gt;
+&lt;h2&gt;Things I wish I’d known since the beginning&lt;/h2&gt;
+&lt;p&gt;Apart from these themes and extensions, I would like to share with you how I use VSCode’s great features to boost productivity. These are all things that I didn’t know as a beginner, and that would’ve been very helpful for leveraging and facilitating my workflow.&lt;/p&gt;
+&lt;h3&gt;Integrated Terminals&lt;/h3&gt;
+&lt;p&gt;It is kind of inevitable that the more time you are in software development, the more important the Terminal becomes. As a JavaScript developer, I use the Terminal to install packages, run the development server, or even push changes in my current repository to GitHub.&lt;/p&gt;
+&lt;p&gt;In the beginning, I mostly took care of those tasks with Windows Command Prompt or Git Bash later on. If you use Windows, then you may know how dumb and annoying CMD can be. Git Bash is a nice tool, but switching between apps when you are working is not really a pleasant experience.&lt;/p&gt;
+&lt;p&gt;VSCode truly solves this problem for me with its fantastic terminal. And the cool thing is you can easily set it up to work the same way as Git Bash, but right inside VSCode! You then have an awesome combination.&lt;/p&gt;
+&lt;p&gt;To access the VSCode terminal, use &lt;strong&gt;Ctrl + `&lt;/strong&gt; (left side of your 1 key). Then the Terminal will pop up.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/113d29085da0ec2c25cd8b61d8c9d87a/60b15/terminal.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 17.405063291139243%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAIAAAAcOLh5AAAACXBIWXMAAAsSAAALEgHS3X78AAAAZ0lEQVQI122NawqAMAyDdxQfezabm84J4v3vZUTwhwofobRJqpwfRDQJMgq0wMTk2lZ8GB/oAcx+rEvFlEMul5Y5qqUhV4PcpSkkidb1tBrbUV9wyesNZ75RiFbA+sELVX8zvzDP4AlMxxwbcq6JwQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;vscode-terminal-1&quot;
+        title=&quot;&quot;
+        src=&quot;/static/113d29085da0ec2c25cd8b61d8c9d87a/fb8a0/terminal.png&quot;
+        srcset=&quot;/static/113d29085da0ec2c25cd8b61d8c9d87a/1a291/terminal.png 148w,
+/static/113d29085da0ec2c25cd8b61d8c9d87a/2bc4a/terminal.png 295w,
+/static/113d29085da0ec2c25cd8b61d8c9d87a/fb8a0/terminal.png 590w,
+/static/113d29085da0ec2c25cd8b61d8c9d87a/526de/terminal.png 885w,
+/static/113d29085da0ec2c25cd8b61d8c9d87a/fa2eb/terminal.png 1180w,
+/static/113d29085da0ec2c25cd8b61d8c9d87a/60b15/terminal.png 1264w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+From here, you can do tons of cool things like create a new terminal or kill the existing one. You can also split-view as well as side-view them.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ef01cdbac947e4e719d2270684b7218b/7aa53/terminal-2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 19.841269841269842%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAIAAAABPYjBAAAACXBIWXMAAAsSAAALEgHS3X78AAAAnElEQVQI103OwQ7CMAgG4D6JWdsNSmlZu7q5aDx6Mb7/80jnwSVfCPkhARPIxzgSKR9ZjSnjuhXNFYBD7AK5x3Pd720usVTWndvejFTI1XOxMlPihMFicIC9qrZFqWMqToSZI4bhl08w1CUZih7JAum2RxwnsKDQaqOyoN4EGo6pPtJDQOf8JUswtXFt6cBLl87qcp7+w+sq78/rC5xRKBpIrGhaAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;vscode-terminal-2&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ef01cdbac947e4e719d2270684b7218b/fb8a0/terminal-2.png&quot;
+        srcset=&quot;/static/ef01cdbac947e4e719d2270684b7218b/1a291/terminal-2.png 148w,
+/static/ef01cdbac947e4e719d2270684b7218b/2bc4a/terminal-2.png 295w,
+/static/ef01cdbac947e4e719d2270684b7218b/fb8a0/terminal-2.png 590w,
+/static/ef01cdbac947e4e719d2270684b7218b/526de/terminal-2.png 885w,
+/static/ef01cdbac947e4e719d2270684b7218b/fa2eb/terminal-2.png 1180w,
+/static/ef01cdbac947e4e719d2270684b7218b/7aa53/terminal-2.png 1260w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h3&gt;Version control (Git)&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4563e49757a3882559a4da5bcecf35c5/772df/vscode-git.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 400px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 98.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsSAAALEgHS3X78AAADtUlEQVQ4y01U224bVRT1IxJCQqSOnRnP9cz9zLnMmZs9dhLn1jp2HCChpUioD40aStomIa0QgijpA5VQEW8I3vgN+glJk9TBqVA+hz1toNhbW1tjr7PWXnufqTiu0ZnORUwUVfJ8RyQR5YTQkPFQ1WTGiWWbcRKbSIdfVU2d6/KDnWR5MP/JWq/i+Wj9s9WZ2ZbUqNuOxQUPCfaxD1nVGpSFmq4wTjVdNUytoTRmpvlXd5L+ysLNz1dLMGU+ZN1QgD/NaJLSJKNxSrJmBDXkss55qxCM+ZZjIMchxMWhXbEdPSQuoS7wLF6fGa4u9gfzg5WF4cdLw9WlwXABAh5CvtHvNlvCMFXXM3DoQJTMK8Neu5M2FCkkQZ7HRaeZ58J2TMcxIVu2AQHFoN/lPDARgM0rMMa2SJgbWMBMGFlY7F7vLRVFXp+qSfKU3JiC53Au5PubX+Q5h+7egV0fsRCFngaW2IHicyOKoixPmq28XeQh8aekGiAVtcGJ7dg69Axiw7JnpxJi6+6T79urN2Wp5hGdpk6Wpc1WludpmsVRHDFGbNdSFNn2EXIM2wawSagH+IpjTJobz90Hvxly1WMuzXCWJc1mBsEFS+GgZgIT1rSG7VvIMT0P+RgmGsKMKoYhFzPF2fn44uKv8/HfJ2fjly+Pjo6PTk9P4HN8fDwajS4vL0fno1dnr85OT8bj8fn5aHzx+sWLP0u379278+zZ043Nrd9/2f7j1739wx+f//zT/v4PB4cHkLe3H+1+s7v1YOvp/rdPHu88fPRwb29n7/Hu/a83KwG2b91ei0Tw3vsftKMPF1rXZNVwPKTqDd1QFUWarF2DqFYnpMZktfZRrT4hyVVVq+uGXIHdVjUJ5i4p+nBevT10khwGLQjBSQIrRUQMexZD4YYwegOGD2J5hMueQ+Ld3fiyM51W61K/q673EOUiSQUMiUcUdpsywiIahgG4rVuaZevOfxsGBxwcftdbnp+YrPdm1E9voIDwvJnAffIDFzJIgCNw6CMP6agEw5LALYBpVaDyAyvAVk1SVuaUWwOEmWi3c7ibGHuRYIRikACyLd/S4QvMrtGd60SClOAS75t1WVmeVdaXLSrSVpG+RZbMFIuYlbKx/VY2/B/0gtMlGAzwA1SCy55NFqVZFouYB7iUTcsXAwkCD7mm8YYZIHFCyw27Yg7MmqwMQHYf8ThvFRmYDJzwGoCGOS9l28E75kiEby7Gv2Bg7s0qaz3ERFYUGTgEyNJwegV2/icbDAPmfwByEwcEe93B+wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;vscode-git&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4563e49757a3882559a4da5bcecf35c5/772df/vscode-git.png&quot;
+        srcset=&quot;/static/4563e49757a3882559a4da5bcecf35c5/871f0/vscode-git.png 148w,
+/static/4563e49757a3882559a4da5bcecf35c5/84726/vscode-git.png 295w,
+/static/4563e49757a3882559a4da5bcecf35c5/772df/vscode-git.png 400w&quot;
+        sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+When you are working on a repository and constantly need to make changes, you would normally find the terminal to commit recent changes, wouldn’t you? Well, VSCode gives you an awesome built-in tool to control your versions.&lt;/p&gt;
+&lt;p&gt;By clicking the Git icon located in the left panel or using Ctrl + Shift + G (Windows), you have easy access to Source Control. In here, you can do all the Git thingies. So convenient, isn’t it?&lt;/p&gt;
+&lt;h2&gt;How do all these things enhance my workflow — and how can they make yours better, too?&lt;/h2&gt;
+&lt;p&gt;After a decent amount of time working with VSCode, I strongly believe its key value is based in its all-in-one environment. All of my needs and tasks within my workflow as a Front-end developer is nicely and flawlessly handled.&lt;/p&gt;
+&lt;p&gt;To make these advantages clearer, let me walk you through my normal workflow.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a11345cb12fc4438c5d99d1fd73d21d1/935c1/vscode-open-folder.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 580px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 28.793103448275865%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAAsSAAALEgHS3X78AAABOUlEQVQY022OX0vCYBSH9wWqLyR0E0XSVV1FX6GPUF3aVnQTpERdqGBOm9Oaqylt00rdbBYRhPvj5lywaDdzc+/FIulF6SLq4XA4HM7D7yC5S57mebFFlDipIXYEUZKkJ7H92Gg9wCrT19UblszjCXQncXjQFESOq6HofiQyPzM3i2Qv7tqdClC2q8Kz5wevE0Y/AACGE4IA+P4IDnA5Hn8VKXZtYxPJl/lzhqUqhSIrDl3XGgxUVe31epqm6bruuq4/wfO8aYcbAILUGbmFnSA4eRVPEvF0CS8x77Y1MKGoy7Js2zY8hVHeb6AchmEsFluORpHTdC6TLVA0w9ebb7Zl9LVuV1YUxTTNadS/MortLS0uIEfHqWSGwAvl2/p9U/t4UfumoeuGAR9wHOevD+XPMNxFsfXVlW+pwSFxdB6ZawAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;vscode-open-folder&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a11345cb12fc4438c5d99d1fd73d21d1/935c1/vscode-open-folder.png&quot;
+        srcset=&quot;/static/a11345cb12fc4438c5d99d1fd73d21d1/73f02/vscode-open-folder.png 148w,
+/static/a11345cb12fc4438c5d99d1fd73d21d1/01593/vscode-open-folder.png 295w,
+/static/a11345cb12fc4438c5d99d1fd73d21d1/935c1/vscode-open-folder.png 580w&quot;
+        sizes=&quot;(max-width: 580px) 100vw, 580px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Let’s say I got some ideas working on a new Music app created by React. I normally start a project by creating a blank folder — so I’ll create a new folder named music_react. After that, I can immediately open the project in VSCode by choosing a right-click option.&lt;/p&gt;
+&lt;p&gt;Once I am in my working project, I can quickly create the file and folders with shortcuts in the left panel.&lt;/p&gt;
+&lt;p&gt;In this project, I want to use the create-react-app initialization. Therefore, I may need to install that package — not a big deal. I open my terminal by typing Ctrl + `. Amazingly, the terminal automatically navigates to my exact directory. There is no need to change directories anymore.&lt;/p&gt;
+&lt;p&gt;After entering in the command line to install the npm package, all I need to do is to wait until all dependencies are installed.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a65f9dcdd8c73595ba764a9a10434718/417af/vscode-terminal-install.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 22.749999999999996%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAIAAADKYVtkAAAACXBIWXMAAAsSAAALEgHS3X78AAAAv0lEQVQY002Oa3LDIAwGfY/WCcaAxEOYV4jteJrc/1QlcYfpzP7UfqvhOPZbzSmnUov3FhC0Rm3QWN0hcktw65pCohBo23O9h1rDcDwfIVrQc0yUMsVMS7R+0VKxjpDXXOm+ex+x1vLzLK/XLQYzjJev8frN2FiKX7eybrlted/qcweQGytRC8BZG2Gssg4AxVu+NHkabfu59WA6cQTayB5v/h/AzwPAaWjmKaMzDfh0FLSUcoRScSY5Fwy7/I9fr/4wvfN17fAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;vscode-terminal-install&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a65f9dcdd8c73595ba764a9a10434718/fb8a0/vscode-terminal-install.png&quot;
+        srcset=&quot;/static/a65f9dcdd8c73595ba764a9a10434718/1a291/vscode-terminal-install.png 148w,
+/static/a65f9dcdd8c73595ba764a9a10434718/2bc4a/vscode-terminal-install.png 295w,
+/static/a65f9dcdd8c73595ba764a9a10434718/fb8a0/vscode-terminal-install.png 590w,
+/static/a65f9dcdd8c73595ba764a9a10434718/526de/vscode-terminal-install.png 885w,
+/static/a65f9dcdd8c73595ba764a9a10434718/fa2eb/vscode-terminal-install.png 1180w,
+/static/a65f9dcdd8c73595ba764a9a10434718/417af/vscode-terminal-install.png 1600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2c36788926067487e07e4753c17e9796/7bf43/vscode-install-complete.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 81.05413105413105%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAIAAACZeshMAAAACXBIWXMAAAsSAAALEgHS3X78AAACoklEQVQoz2VT2Y7cNhDUl3hndIukxJuURGp0S3PsYdg/YO/jAsljNp+fnk1iwzBQaDTJLnRVoxmkWWitnue+LPMsixFK0/yQ5scsj+a13y+zqbmtRUWx0rxpNWNlRZGtJeMkyNGBilRqhMoIVUdUhqjIUVHkxUHqVMiM8ZiLhLKYsoTxrKJxXkQIJwWKA9WQ+cq7pbS+Mr7wA+/dPHSbc3ycyn6gSkdSH5UJhQqlCoWMgAzI8jCwTfv63X/7pp2dG306df3Tyz5Mbd+7aR6GaXC+dr7pTq51RgiqLVhATasqhoLT0E7L2nbLvI63x2Ucu2UdL9cd7sepu1zX623b9mleTv5khSwbp4wV4FlpGigtXz6bp2cupS0JkopShgjJKCtKWjCO6UfkgsC91PdXZZg2DF6DbuhfX6fvr90yXPZt+/L1+fZ0XjdQsZ0v67bP0BM6D6OjDCvDCYEpVlozhNNAavv2Jv74E7W+Hca262rf2XHyoHlaTtABSmE2SXoAxMlDmh2T9AEACXRe/n5v/non0Oh6Wy+Xdd3H58+3L19fwDA4Zwz/O94fQ86L8L9pI4zO5+zxMSkpBm9ClOAK/EhVgU6YEJTCIkHp7wiM5ft59Z3fz/O6TRC9t0pXoDBJQeEBioB852f/Jz/IFcuFKkiVCEV0XcGRsUpwmqMQkxDheyzQL/hJljXq1spPFdNxpT9BlNRKClbTxsXGRraOmzap29jUMeTawHrGsJt3MizQvi3TNPS9H8fe1hokNF7CJgjJKCPaCFMrbWTdmNZZY1XrtPOWSxJwieuWA7ShrZdM4KLIMC4Qjgl8FRzhMiIkwh+AIyCHX0GyHD4GpkfeHKk5lgLiAzOxYq1ijtK4cZEx0YfyO7QJtY2UCpFipFZ5lf8DNn/AQNJZiKMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;vscode-install-complete&quot;
+        title=&quot;&quot;
+        src=&quot;/static/2c36788926067487e07e4753c17e9796/fb8a0/vscode-install-complete.png&quot;
+        srcset=&quot;/static/2c36788926067487e07e4753c17e9796/1a291/vscode-install-complete.png 148w,
+/static/2c36788926067487e07e4753c17e9796/2bc4a/vscode-install-complete.png 295w,
+/static/2c36788926067487e07e4753c17e9796/fb8a0/vscode-install-complete.png 590w,
+/static/2c36788926067487e07e4753c17e9796/7bf43/vscode-install-complete.png 702w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I also want to publish my project on GitHub, so I should probably initialize a Git repository at first. After the packages are installed, I type a Git initialization command right in my terminal as well.&lt;/p&gt;
+&lt;p&gt;Once Git is successfully installed, I can commit all pending changes right in the Source Control on the left panel.&lt;/p&gt;
+&lt;p&gt;Then I can continue to work on my project as normal. Besides, I can push all changes to GitHub from my terminal if I want to.&lt;/p&gt;
+&lt;h2&gt;Wrapping up&lt;/h2&gt;
+&lt;p&gt;So that’s my normal workflow in the VSCode environment. I understand that this varies significantly depending on what type of developer you are. A back-end developer might have a completely different workflow compared to mine.&lt;/p&gt;
+&lt;p&gt;However, if you are a front-end developer who is just getting to know VSCode, and you want to check it out before getting into it, I hope that this article gives you insight and helps enhance your productivity. After all, my biggest inspiration to write this small guideline is because I could not really find any thorough review of VSCode for newcomers. As a result, this blog hopefully can bring you some value.&lt;/p&gt;</content:encoded></item></channel></rss>
