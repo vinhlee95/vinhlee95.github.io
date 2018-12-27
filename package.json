@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Vinh Le <lethanhvinh95@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby-starter-blog/issues"
+    "url": "https://vinhlee95.github.io/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.19",
@@ -40,7 +40,7 @@
     "eslint-plugin-react": "^7.11.1",
     "prettier": "^1.14.2"
   },
-	"homepage": "http://username.github.io/blogs",
+	"homepage": "https://vinhlee95.github.io/",
   "keywords": [
     "gatsby"
   ],
