@@ -6,21 +6,44 @@ import styled from 'styled-components'
 // assets
 import BackIcon from '../icons/ui-arrow-back.svg'
 
-// general layout
-const GeneralLayout = styled.div`
-	padding: 0 5%;
 
-	@media (min-width: 768px) {
-		padding: 0 20%;
-	}
-
-	@media (min-width: 1024px) {
-		padding: 0 25%;
-	}
-`
 
 class Layout extends React.Component {
+
+	getTheme(lightTheme) {
+		if(lightTheme) {
+			return styled.div`
+				padding: 0 5%;
+
+				@media (min-width: 768px) {
+					padding: 0 20%;
+				}
+
+				@media (min-width: 1024px) {
+					padding: 0 25%;
+				}
+			`
+		}
+		return styled.div`
+			padding: 0 5%;
+			background: #282c35;
+			color: white;
+
+			@media (min-width: 768px) {
+				padding: 0 20%;
+			}
+
+			@media (min-width: 1024px) {
+				padding: 0 25%;
+			}
+		`
+	}
+
   render() {
+		const { lightTheme } = this.props;
+			// general layout
+		const GeneralLayout = this.getTheme(lightTheme)
+
     const { location, title, children } = this.props
     const rootPath = `${__PATH_PREFIX__}/`
     let header
