@@ -1,37 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import styled from 'styled-components'
 import { rhythm, scale } from '../utils/typography'
-import { Theme } from './theme/theme'
+import { Theme, LightTheme, DarkTheme } from './theme/theme'
 
-// assets
 import BackIcon from '../icons/ui-arrow-back.svg'
-
-const LightTheme = styled.div`
-	padding: 0 5%;
-
-	@media (min-width: 768px) {
-		padding: 0 20%;
-	}
-
-	@media (min-width: 1024px) {
-		padding: 0 25%;
-	}
-`
-
-const DarkTheme = styled.div`
-	padding: 0 5%;
-	background: #282c35;
-	color: white;
-
-	@media (min-width: 768px) {
-		padding: 0 20%;
-	}
-
-	@media (min-width: 1024px) {
-		padding: 0 25%;
-	}
-`
 
 class Layout extends React.Component {
 
@@ -46,7 +18,8 @@ class Layout extends React.Component {
           style={{
             ...scale(1.5),
             marginBottom: rhythm(1.5),
-            marginTop: 0,
+						marginTop: 0,
+						paddingTop: 20,
           }}
         >
           <Link
@@ -80,13 +53,8 @@ class Layout extends React.Component {
     }
     return (
       <Theme>
-				{
-					({theme}) => (
-						theme === 'light' ?
-						<LightTheme>{header}{children}</LightTheme> :
-						<DarkTheme>{header}{children}</DarkTheme>
-					)
-				}
+				{header}
+				{children}
 			</Theme>
     )
   }
