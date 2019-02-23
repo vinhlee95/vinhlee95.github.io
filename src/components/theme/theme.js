@@ -74,7 +74,7 @@ export class Theme extends React.Component {
 		this.handleChangeTheme = this.handleChangeTheme.bind(this)
 
 		this.state = {
-			theme: localStorage.theme ? localStorage.theme : 'light'
+			theme: window.localStorage.theme ? window.localStorage.theme : 'light'
 		}
 	}
 
@@ -83,13 +83,13 @@ export class Theme extends React.Component {
 		let newTheme
 		if(theme === 'light') {
 			newTheme = 'dark'
-			localStorage.setItem('theme', newTheme)
+			window.localStorage.setItem('theme', newTheme)
 			this.setState({ theme: newTheme })
 			return
 		}
 
 		newTheme = 'light'
-		localStorage.setItem('theme', newTheme)
+		window.localStorage.setItem('theme', newTheme)
 		this.setState({ theme: newTheme })
 
 	}
