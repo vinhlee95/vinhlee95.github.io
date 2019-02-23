@@ -18,6 +18,14 @@ export const LightTheme = styled.div`
 		margin-bottom: 0;
 	}
 
+	.go-back-button {
+		display: flex;
+		align-items: center;
+		color: #000;
+		max-width: 120px;
+		border-radius: 10px;
+	}
+
 	@media (min-width: 768px) {
 		padding: 0 20%;
 	}
@@ -40,6 +48,14 @@ export const DarkTheme = styled.div`
 		a {
 			color: #fff;
 		}
+	}
+
+	.go-back-button {
+		display: flex;
+		align-items: center;
+		color: #fff;
+		max-width: 120px;
+		border-radius: 10px;
 	}
 
 	@media (min-width: 768px) {

@@ -1,9 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import { rhythm, scale } from '../utils/typography'
-import { Theme, LightTheme, DarkTheme } from './theme/theme'
+import { Theme } from './theme/theme'
 
-import BackIcon from '../icons/ui-arrow-back.svg'
+import { MdKeyboardArrowLeft } from 'react-icons/md'
 
 class Layout extends React.Component {
 
@@ -37,17 +37,12 @@ class Layout extends React.Component {
     } else {
       header = (
 				<Link
-					style={{
-						boxShadow: 'none',
-						textDecoration: 'none',
-						color: 'inherit',
-						display: 'flex',
-						alignItems: 'center',
-					}}
 					to={'/'}
 				>
-					<img src={BackIcon} alt='back-home' style={{marginBottom: 0}} />
-					All blogs
+					<div className='go-back-button'>
+						<MdKeyboardArrowLeft size={32} />
+						All blogs
+					</div>
 				</Link>
       )
     }
