@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'BLOGS',
+    title: 'BLOG',
     author: 'Vinh Le',
     description: 'Writing about tech and related stuffs',
-    siteUrl: 'http://vinhlee95.github.io',
+    siteUrl: 'https://www.vinhlee.com',
     social: {
 			twitter: 'vinhle95',
 			medium: '@vinhle95',

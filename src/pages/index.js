@@ -1,29 +1,19 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
+import styled from 'styled-components'
+
 import Bio from '../components/bio'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
-import { rhythm } from '../utils/typography'
-import Toggle from 'react-toggle'
-import "react-toggle/style.css"
-import { MdWbSunny } from 'react-icons/md'
-import { FaMoon } from 'react-icons/fa'
 
-const icons = {
-	checked: <MdWbSunny />,
-	unchecked: <FaMoon />
-}
+const Excert = styled.p`
+	&:last-child {
+		margin-bottom: 0;
+		padding-bottom: 20px;
+	}
+`
 
 class BlogIndex extends React.Component {
-	constructor(props) {
-		super(props)
-		this.handleChangeTheme = this.handleChangeTheme.bind(this)
-		this.state = {
-			lightTheme: true
-		}
-	}
-
-	handleChangeTheme() { this.setState({lightTheme: !this.state.lightTheme}) }
 
 
   render() {
@@ -32,12 +22,8 @@ class BlogIndex extends React.Component {
 		const posts = data.allMarkdownRemark.edges
 
     return (
-      <Layout location={this.props.location} title={siteTitle} lightTheme={this.state.lightTheme} >
-				<Toggle
-					defaultChecked={this.state.lightTheme}
-					onChange={this.handleChangeTheme}
-					icons={icons}
-				/>
+      <Layout location={this.props.location} title={siteTitle} >
+
         <SEO title="All posts" keywords={['blog', 'gatsby', 'javascript', 'react']} />
         <Bio />
         {posts.map(({ node }) => {
@@ -58,7 +44,7 @@ class BlogIndex extends React.Component {
                 </Link>
               </h3>
               <small>{node.frontmatter.date}</small>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              <Excert dangerouslySetInnerHTML={{ __html: node.excerpt }} style={{marginBottom:0}} />
             </div>
           )
 				})}
