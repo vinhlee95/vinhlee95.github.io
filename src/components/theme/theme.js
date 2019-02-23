@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import Toggle from 'react-toggle'
 
-import "react-toggle/style.css"
+import './toggle-style.css'
 import { MdWbSunny } from 'react-icons/md'
 import { FaMoon } from 'react-icons/fa'
 
