@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import styled from 'styled-components'
 import { rhythm, scale } from '../utils/typography'
-import { Theme } from '../pages/theme'
+import { Theme } from './theme/theme'
 
 // assets
 import BackIcon from '../icons/ui-arrow-back.svg'
